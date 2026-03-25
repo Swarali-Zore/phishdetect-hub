@@ -27,6 +27,3 @@ PhishDetect Hub is a web-based application that helps users detect **phishing UR
 - PostCSS
 - Modern UI components
 
----
-
-## 📁 Project Structure
